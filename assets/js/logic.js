@@ -1,2 +1,1 @@
-var now = moment();
-$("#clock").text(now);
+var weekday = require("dayjs/plugin/advancedFormat");
