@@ -1,0 +1,9 @@
+:root{
+    --navy: rgb(36, 83, 130);
+    --red: rgb(193, 57, 57);
+}
+
+header{
+    background-color: var(--navy);
+    color: #FFF;
+}
